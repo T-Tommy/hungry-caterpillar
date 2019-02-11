@@ -1,3 +1,6 @@
+import examples from './examples.js';
+examples();
+
 // giant iffe
 (() => {
     const fruitList = [
